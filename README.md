@@ -1,1 +1,1 @@
-# java-8
+This repository is for leaning java-8 features
