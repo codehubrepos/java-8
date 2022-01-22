@@ -9,7 +9,6 @@ public final class ImmutableEmployee {
 	private final String departmentName;
 	
 	public ImmutableEmployee(String empName, Date dob, Date dateOfMarriage, String gender, String departmentName) {
-		super();
 		this.empName = empName;
 		this.dob = new Date(dob.getTime());
 		this.dateOfMarriage = dateOfMarriage;
